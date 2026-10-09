@@ -25,6 +25,6 @@ This project was the first assignment for the Advanced Professional Practices mo
 ## Files
 | File | Description |
 |------|-------------|
-| `CIS4509 coursework 1.docx` | Report covering project and risk management, each development iteration and bringing the product to market, with appendices of designs, code and screenshots |
+| `CIS4509 coursework 1.pdf` | Report covering project and risk management, each development iteration and bringing the product to market, with appendices of designs, code and screenshots |
 | `Personal Tutor Database.sql` | MySQL script to create and populate the database |
 | `PersonalTutorMIS/` | PHP source code for the web application: login and authentication, role dashboards (dashboards/admin, management, tutor and student), shared page includes and CSS styling |
